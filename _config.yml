@@ -18,8 +18,8 @@ author: "Forrest Blount"
 email: forrestarthur+blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on 6 years of building a sustainable startup.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://forrestblount.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://forrestblount.com" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: forrestblount
 github_username:  forrestblount
 
