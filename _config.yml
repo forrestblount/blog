@@ -26,14 +26,13 @@ github_username:  forrestblount
 # Build settings
 markdown: kramdown
 
-remote_theme: chesterhow/tale
+theme: tale
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
 
 plugins:
   - jekyll-paginate
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
