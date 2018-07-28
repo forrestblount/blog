@@ -11,7 +11,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 3.8.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "tale"
+gem "tale"
 
 # for github pages
 gem "jekyll-remote-theme"
