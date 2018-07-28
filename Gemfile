@@ -14,7 +14,7 @@ source "https://rubygems.org"
 # gem "tale"
 
 # for github pages
-gem "jekyll-remote-theme"
+# gem "jekyll-remote-theme"
 gem "jekyll-paginate"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
