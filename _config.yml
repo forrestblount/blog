@@ -25,7 +25,7 @@ github_username:  forrestblount
 
 # Build settings
 markdown: kramdown
-theme: tale
+# theme: tale
 remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
