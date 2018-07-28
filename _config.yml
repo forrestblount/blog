@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: FB
+author: "Forrest Blount"
 email: forrestarthur+blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on 6 years of building a sustainable startup.
@@ -24,9 +25,15 @@ github_username:  forrestblount
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: tale
+remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+permalink:  /:year-:month-:day/:title
+paginate:   5
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
